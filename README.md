@@ -1,1 +1,1 @@
-# buton-ile-sayfa-rengini-de-i-itirme
+# buton-ile-sayfa-rengini-degistir
